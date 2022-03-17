@@ -1,0 +1,65 @@
+
+
+
+.adminForm {
+    
+   font-family: "Lato", sans-serif;
+   margin-bottom: 350px;
+   margin-top: 150;
+   
+}
+
+.adminForm h2 {
+    padding-bottom: 20px;
+
+}
+.adminForm button {
+    background: none;
+    border:1px solid #009bdc;
+}
+.adminForm button:hover {
+    background: #009bdc;
+    border:1px solid #009bdc;
+}
+
+thead th:nth-child(1) {
+  width: 10%;
+}
+thead th:nth-child(2) {
+  width: 10%;
+}
+thead th:nth-child(3) {
+  width: 16%;
+}
+thead th:nth-child(4) {
+  width: 16%;
+}
+thead th:nth-child(5) {
+  width: 16%;
+}
+thead th:nth-child(6) {
+  width: 16%;
+}
+thead th:nth-child(7) {
+  width: 16%;
+}
+thead,
+h2 {
+  font-family: "Merriweather Sans", sans-serif;
+ 
+}
+th,
+td {
+  padding: 20px;  
+}
+
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+

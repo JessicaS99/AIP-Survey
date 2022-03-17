@@ -1,0 +1,15 @@
+header { 
+    padding: 43px 0;
+    background-color: rgba(179, 179, 179, 0.068);
+    margin-bottom: 50px;
+}
+.aip {
+    padding-left: 122px;
+    height: 40px;
+}
+.jsw {
+    float: right;
+    height: 40px;
+    padding-right: 50px;
+    
+}
